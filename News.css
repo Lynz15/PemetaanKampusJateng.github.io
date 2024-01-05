@@ -1,0 +1,676 @@
+.news-child {
+  position: absolute;
+  top: 69px;
+  left: -44px;
+  width: 1782px;
+  height: 101px;
+  object-fit: cover;
+}
+.news-inner,
+.news-item {
+  position: absolute;
+  top: 34px;
+  left: -20px;
+  width: 1753px;
+  height: 122px;
+  object-fit: contain;
+}
+.news-inner {
+  top: 0;
+  left: 0;
+  width: 1728px;
+  height: 136px;
+  object-fit: cover;
+}
+.pemetaan11 {
+  background: linear-gradient(180deg, #f05941, #ae2c3d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.pemetaankampus11 {
+  position: absolute;
+  top: 27px;
+  left: 1353px;
+  font-size: var(--font-size-26xl);
+  font-weight: 600;
+  text-align: center;
+  display: inline-block;
+  width: 374px;
+  height: 63px;
+}
+.search-icon10 {
+  position: absolute;
+  top: 34px;
+  left: 1181px;
+  width: 219px;
+  height: 86px;
+  object-fit: cover;
+}
+.home6 {
+  position: absolute;
+  top: 35px;
+  left: 52px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  color: var(--color-peachpuff);
+  text-align: center;
+  width: 438px;
+  height: 70px;
+  cursor: pointer;
+}
+.group-child243 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gray-1000);
+  box-shadow: 5px 4px 6.9px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-indigo);
+  box-sizing: border-box;
+  width: 239px;
+  height: 60px;
+}
+.back9 {
+  position: absolute;
+  top: 7px;
+  left: 50px;
+  font-weight: 600;
+  display: inline-block;
+  width: 138px;
+  height: 46.1px;
+}
+.group-child244,
+.group-child245 {
+  position: absolute;
+  top: 18px;
+  left: 169px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 23px;
+  object-fit: contain;
+}
+.group-child245 {
+  left: 69px;
+}
+.rectangle-parent94 {
+  position: absolute;
+  top: 3701px;
+  left: 1427px;
+  width: 239px;
+  height: 60px;
+  text-align: center;
+}
+.group-child246,
+.menu-icon19 {
+  position: absolute;
+  object-fit: cover;
+}
+.menu-icon19 {
+  top: 49px;
+  left: 52px;
+  width: 69px;
+  height: 37px;
+  cursor: pointer;
+}
+.group-child246 {
+  top: 0;
+  left: 0;
+  width: 2609px;
+  height: 575px;
+}
+.group-child247,
+.group-child248 {
+  position: absolute;
+  top: 69.2px;
+  left: 1px;
+  width: 2757px;
+  height: 647.9px;
+  object-fit: contain;
+}
+.group-child248 {
+  top: 142.2px;
+  left: 0;
+  width: 2609px;
+  height: 704.8px;
+  object-fit: cover;
+}
+.contact15,
+.mitra11 {
+  position: absolute;
+  top: 287px;
+  left: 889px;
+  font-weight: 600;
+  display: inline-block;
+  width: 374px;
+  height: 150px;
+}
+.contact15 {
+  top: 285px;
+  left: 1700px;
+}
+.vector-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2758px;
+  height: 847px;
+}
+.dinas-pendidikan-dan-kebudayaa-icon11 {
+  position: absolute;
+  top: 432px;
+  left: 680px;
+  width: 733.1px;
+  height: 167px;
+  object-fit: cover;
+}
+.email11 {
+  margin: 0;
+}
+.email-perguruantinggijateng-container11 {
+  position: absolute;
+  top: 453px;
+  left: 1584px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.08em;
+  line-height: 233.74%;
+  font-weight: 600;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 680px;
+}
+.group-parent10 {
+  position: absolute;
+  top: 4346px;
+  left: -548px;
+  width: 2758px;
+  height: 847px;
+  text-align: center;
+  font-size: var(--font-size-49xl);
+}
+.seputar-kampus-jateng-container1 {
+  position: absolute;
+  top: 223px;
+  left: 71px;
+  font-size: var(--font-size-111xl);
+  letter-spacing: 0.05em;
+  line-height: 100%;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  width: 1008px;
+}
+.image-18-icon2 {
+  position: absolute;
+  top: 552px;
+  left: 973px;
+  border-radius: var(--br-88xl);
+  width: 1264px;
+  height: 820px;
+  object-fit: cover;
+}
+.group-child249,
+.group-child250 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  width: 248px;
+}
+.group-child249 {
+  top: 0;
+  left: 3px;
+  background-color: var(--color-brown);
+  box-shadow: 4px -2px 5.5px rgba(0, 0, 0, 0.25);
+  height: 57px;
+}
+.group-child250 {
+  top: 3px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  height: 56px;
+}
+.selengkapnya10 {
+  position: absolute;
+  top: 5.1px;
+  left: 27px;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  display: inline-block;
+  width: 241px;
+  height: 58px;
+}
+.rectangle-parent95 {
+  position: absolute;
+  top: 1222px;
+  left: 110px;
+  width: 268px;
+  height: 63.1px;
+  font-size: var(--font-size-14xl);
+}
+.news-child1 {
+  position: absolute;
+  top: 548px;
+  left: 107px;
+  background-color: var(--color-brown);
+  width: 172px;
+  height: 48px;
+}
+.media6,
+.undip3 {
+  position: absolute;
+  top: 536px;
+  left: 110px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.04em;
+  color: var(--color-gainsboro-100);
+}
+.undip3 {
+  top: 582px;
+  left: 107px;
+  font-size: var(--font-size-46xl);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.news-child2 {
+  position: absolute;
+  top: 684px;
+  left: 115px;
+  background-color: var(--color-gray-200);
+  width: 959px;
+  height: 5px;
+}
+.news-child3 {
+  position: absolute;
+  top: 1324px;
+  left: 528px;
+  width: 174px;
+  height: 13px;
+  object-fit: cover;
+}
+.tim-program-penguatan2,
+.undip-raih-42 {
+  position: absolute;
+  top: 973px;
+  left: 113px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 775px;
+}
+.undip-raih-42 {
+  top: 702px;
+  left: 107px;
+  font-size: var(--font-size-36xl);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  width: 910px;
+}
+.humas-undip7 {
+  text-decoration: underline;
+}
+.humas-undip6 {
+  color: inherit;
+}
+.oleh-humas-undip-container3 {
+  position: absolute;
+  top: 877px;
+  left: 107px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  color: var(--color-gray-700);
+}
+.image-2-icon2 {
+  position: absolute;
+  top: 1633px;
+  left: -336px;
+  width: 1140px;
+  height: 770px;
+  object-fit: contain;
+}
+.group-child251,
+.group-child252 {
+  position: absolute;
+  border-radius: var(--br-3xs);
+  width: 248px;
+}
+.group-child251 {
+  top: 0;
+  left: 17px;
+  background-color: var(--color-brown);
+  box-shadow: 4px -2px 5.5px rgba(0, 0, 0, 0.25);
+  height: 57px;
+}
+.group-child252 {
+  top: 3px;
+  left: 14px;
+  background-color: var(--color-gray-200);
+  height: 56px;
+}
+.selengkapnya11 {
+  position: absolute;
+  top: 5.1px;
+  left: 0;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  display: inline-block;
+  width: 241px;
+  height: 58px;
+}
+.rectangle-parent96 {
+  position: absolute;
+  top: 2259px;
+  left: 1401px;
+  width: 265px;
+  height: 63.1px;
+  text-align: right;
+  font-size: var(--font-size-14xl);
+}
+.news-child4 {
+  position: absolute;
+  top: 1595px;
+  left: 1487px;
+  width: 172px;
+  height: 48px;
+  object-fit: cover;
+}
+.media7,
+.oleh-humas-udinus-container4 {
+  position: absolute;
+  top: 1583px;
+  left: 1546px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.04em;
+  color: var(--color-gainsboro-100);
+  text-align: right;
+}
+.oleh-humas-udinus-container4 {
+  top: 1930px;
+  left: 1175px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+  color: var(--color-gray-600);
+}
+.organisasi-mahasiswa-universit-container3,
+.ormawa-udinus-borong2,
+.udinus2 {
+  position: absolute;
+  letter-spacing: 0.04em;
+  color: var(--color-black);
+  text-align: right;
+}
+.organisasi-mahasiswa-universit-container3 {
+  top: 2009px;
+  left: 930px;
+  font-size: var(--font-size-8xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 736px;
+}
+.ormawa-udinus-borong2,
+.udinus2 {
+  top: 1654px;
+  left: 1466px;
+  font-size: var(--font-size-46xl);
+  font-weight: 600;
+}
+.ormawa-udinus-borong2 {
+  top: 1756px;
+  left: 744px;
+  font-size: var(--font-size-36xl);
+  letter-spacing: 0.02em;
+  display: inline-block;
+  width: 912px;
+}
+.news-child5 {
+  position: absolute;
+  top: 1758px;
+  left: 707px;
+  background-color: var(--color-gray-200);
+  width: 959px;
+  height: 5px;
+}
+.news-child6 {
+  position: absolute;
+  top: 2358px;
+  left: 1124px;
+  width: 174px;
+  height: 13px;
+  object-fit: cover;
+}
+.rectangle-parent97 {
+  position: absolute;
+  top: 3311px;
+  left: 58px;
+  width: 268px;
+  height: 63.1px;
+  font-size: var(--font-size-14xl);
+}
+.kompascom1 {
+  position: absolute;
+  top: 2671px;
+  left: 55px;
+  font-size: var(--font-size-46xl);
+  letter-spacing: 0.04em;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.news-child7 {
+  position: absolute;
+  top: 2773px;
+  left: 63px;
+  background-color: var(--color-gray-200);
+  width: 959px;
+  height: 5px;
+}
+.news-child8 {
+  position: absolute;
+  top: 3413px;
+  left: 476px;
+  width: 174px;
+  height: 13px;
+  object-fit: cover;
+}
+.perguruan-tinggi-di1,
+.perguruan-tinggi-yang1 {
+  position: absolute;
+  top: 3023px;
+  left: 55px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 775px;
+}
+.perguruan-tinggi-di1 {
+  top: 2791px;
+  font-size: var(--font-size-36xl);
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  width: 875px;
+}
+.oleh-kompascom-1 {
+  position: absolute;
+  top: 2966px;
+  left: 55px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  color: var(--color-gray-700);
+}
+.news-child10,
+.news-child11,
+.news-child12,
+.news-child9 {
+  position: absolute;
+  top: 4110px;
+  left: 47px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-gray-900);
+  box-shadow: 7px 5px 4px rgba(0, 0, 0, 0.25);
+  width: 443px;
+  height: 447px;
+}
+.news-child10,
+.news-child11,
+.news-child12 {
+  left: 530px;
+  box-shadow: 6px 7px 4px rgba(0, 0, 0, 0.25);
+}
+.news-child11,
+.news-child12 {
+  left: 1013px;
+}
+.news-child12 {
+  left: 1496px;
+  box-shadow: 10px 8px 4px rgba(0, 0, 0, 0.25);
+}
+.group-child255,
+.more44 {
+  position: absolute;
+  top: 0;
+  height: 50px;
+}
+.group-child255 {
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 290px;
+}
+.more44 {
+  left: 72px;
+  font-weight: 600;
+  display: inline-block;
+  width: 138px;
+}
+.group-child256 {
+  position: absolute;
+  top: 25px;
+  left: 183px;
+  max-height: 100%;
+  width: 35px;
+  object-fit: cover;
+}
+.rectangle-parent98 {
+  left: 123px;
+}
+.rectangle-parent100,
+.rectangle-parent98,
+.rectangle-parent99 {
+  position: absolute;
+  top: 4465px;
+  width: 290px;
+  height: 50px;
+  text-align: center;
+}
+.rectangle-parent99 {
+  left: 607px;
+  cursor: pointer;
+}
+.rectangle-parent100 {
+  left: 1089px;
+}
+.group-child262 {
+  position: absolute;
+  top: 25px;
+  left: 183px;
+  width: 35px;
+  height: 0;
+  object-fit: cover;
+}
+.rectangle-parent101 {
+  position: absolute;
+  top: 4465px;
+  left: 1572px;
+  width: 290px;
+  height: 50px;
+  text-align: center;
+}
+.vector-icon25 {
+  position: absolute;
+  height: 3.52%;
+  width: 12.21%;
+  top: 80.92%;
+  right: 22.22%;
+  bottom: 15.56%;
+  left: 65.57%;
+  object-fit: cover;
+}
+.vector-icon25,
+.vector-icon26,
+.vector-icon27 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon26 {
+  position: absolute;
+  height: 2.85%;
+  width: 12.85%;
+  top: 81.53%;
+  right: 77.84%;
+  bottom: 15.62%;
+  left: 9.32%;
+  object-fit: cover;
+}
+.vector-icon27 {
+  height: 2.92%;
+  width: 8.77%;
+  top: 81.04%;
+  right: 52.15%;
+  bottom: 16.04%;
+  left: 39.08%;
+}
+.image-26-icon1,
+.vector-icon27,
+.vector-icon28 {
+  position: absolute;
+  object-fit: cover;
+}
+.vector-icon28 {
+  height: 3.98%;
+  width: 11.96%;
+  top: 81.1%;
+  right: -3.38%;
+  bottom: 14.92%;
+  left: 91.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-26-icon1 {
+  top: 2649px;
+  left: 930px;
+  border-radius: var(--br-36xl);
+  width: 1146px;
+  height: 764px;
+}
+.news-child13 {
+  position: absolute;
+  top: 2627px;
+  left: 55px;
+  background-color: var(--color-brown);
+  width: 172px;
+  height: 48px;
+}
+.media8 {
+  position: absolute;
+  top: 2615px;
+  left: 58px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: 0.04em;
+  color: var(--color-gainsboro-100);
+}
+.news2 {
+  position: relative;
+  background-color: var(--color-antiquewhite);
+  width: 100%;
+  height: 5193px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-saira-condensed);
+}
